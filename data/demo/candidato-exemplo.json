@@ -1,0 +1,35 @@
+{
+  "_aviso": "PESSOA FICTÍCIA. Dados inventados apenas para demonstrar o layout do Eleitor Livre sem acesso ao TSE.",
+  "id": 999000000001,
+  "nomeUrna": "MARIA EXEMPLO",
+  "nomeCompleto": "MARIA EXEMPLO DA SILVA",
+  "numero": 99123,
+  "dataDeNascimento": "1978-05-14",
+  "descricaoSexo": "FEMININO",
+  "grauInstrucao": "SUPERIOR COMPLETO",
+  "ocupacao": "PROFESSORA DE ENSINO FUNDAMENTAL",
+  "nomeMunicipioNascimento": "CIDADE EXEMPLO",
+  "sgUfNascimento": "PA",
+  "localCandidatura": "CIDADE EXEMPLO",
+  "ufSuperiorCandidatura": "PA",
+  "partido": { "numero": 99, "sigla": "PEX", "nome": "PARTIDO EXEMPLO" },
+  "cargo": { "codigo": 13, "nome": "VEREADOR" },
+  "nomeColigacao": "PARTIDO ISOLADO",
+  "descricaoSituacao": "Deferido",
+  "descricaoTotalizacao": "Eleito por QP",
+  "stReeleicao": true,
+  "fotoUrl": null,
+  "sites": ["https://exemplo.org"],
+  "bens": [
+    { "ordem": 1, "descricaoDeTipoDeBem": "Casa", "descricao": "Casa residencial (exemplo)", "valor": 180000 },
+    { "ordem": 2, "descricaoDeTipoDeBem": "Veículo automotor terrestre", "descricao": "Carro popular 2019 (exemplo)", "valor": 42000 },
+    { "ordem": 3, "descricaoDeTipoDeBem": "Depósito bancário em conta corrente", "descricao": "Conta corrente (exemplo)", "valor": 8500 }
+  ],
+  "totalDeBens": 230500,
+  "eleicoesAnteriores": [
+    { "nrAno": 2012, "cargo": "Vereador", "local": "CIDADE EXEMPLO", "partido": "PEX", "situacaoTotalizacao": "Não eleito" },
+    { "nrAno": 2016, "cargo": "Vereador", "local": "CIDADE EXEMPLO", "partido": "PEX", "situacaoTotalizacao": "Eleito por média" },
+    { "nrAno": 2018, "cargo": "Deputado Estadual", "local": "PARÁ", "partido": "PEX", "situacaoTotalizacao": "Suplente" },
+    { "nrAno": 2020, "cargo": "Vereador", "local": "CIDADE EXEMPLO", "partido": "PEX", "situacaoTotalizacao": "Eleito por QP" }
+  ]
+}
